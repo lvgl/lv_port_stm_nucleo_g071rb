@@ -1,4 +1,0 @@
-../Drivers/BSP/key_io.c:99:9:BSP_KEY_Init	0	static
-../Drivers/BSP/key_io.c:115:9:BSP_KEY_DeInit	0	static
-../Drivers/BSP/key_io.c:132:9:BSP_KEY_SetOrientation	0	static
-../Drivers/BSP/key_io.c:152:9:BSP_KEY_GetState	16	static

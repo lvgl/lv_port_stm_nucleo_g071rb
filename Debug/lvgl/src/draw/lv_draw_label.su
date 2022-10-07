@@ -1,3 +1,0 @@
-../lvgl/src/draw/lv_draw_label.c:55:6:lv_draw_label_dsc_init	16	static
-../lvgl/src/draw/lv_draw_label.c:77:28:lv_draw_label	280	static
-../lvgl/src/draw/lv_draw_label.c:364:6:lv_draw_letter	8	static

@@ -1,2 +1,0 @@
-../lvgl_hal/disp.c:71:13:flush_cb	32	static
-../lvgl_hal/disp.c:44:6:disp_init	16	static

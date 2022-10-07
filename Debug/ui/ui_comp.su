@@ -1,8 +1,0 @@
-../ui/ui_comp.c:27:6:get_component_child_event_cb	16	static
-../ui/ui_comp.c:34:6:del_component_child_event_cb	8	static
-../ui/ui_comp.c:18:12:ui_comp_get_child	16	static
-../ui/ui_comp.c:43:12:ui_Button_create	24	static
-../ui/ui_comp.c:97:12:ui_Header_Sub_create	24	static
-../ui/ui_comp.c:149:12:ui_Header_create	40	static
-../ui/ui_comp.c:231:12:ui_List_Switch_create	24	static
-../ui/ui_comp.c:301:12:ui_Roller_create	16	static

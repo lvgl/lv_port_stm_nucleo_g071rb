@@ -1,3 +1,0 @@
-../lvgl/src/extra/themes/basic/lv_theme_basic.c:173:13:theme_apply	16	static
-../lvgl/src/extra/themes/basic/lv_theme_basic.c:138:6:lv_theme_basic_is_inited	0	static
-../lvgl/src/extra/themes/basic/lv_theme_basic.c:143:14:lv_theme_basic_init	24	static

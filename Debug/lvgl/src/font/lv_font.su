@@ -1,3 +1,0 @@
-../lvgl/src/font/lv_font.c:49:17:lv_font_get_glyph_bitmap	8	static
-../lvgl/src/font/lv_font.c:64:6:lv_font_get_glyph_dsc	32	static
-../lvgl/src/font/lv_font.c:136:10:lv_font_get_glyph_width	40	static

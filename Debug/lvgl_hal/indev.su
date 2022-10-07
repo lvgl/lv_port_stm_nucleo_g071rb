@@ -1,2 +1,0 @@
-../lvgl_hal/indev.c:62:13:joy_read_cb	16	static
-../lvgl_hal/indev.c:43:6:indev_init	8	static

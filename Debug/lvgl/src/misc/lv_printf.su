@@ -1,6 +1,0 @@
-../lvgl/src/misc/lv_printf.c:125:20:_out_buffer	0	static
-../lvgl/src/misc/lv_printf.c:133:20:_out_null	0	static
-../lvgl/src/misc/lv_printf.c:197:15:_ntoa_format	48	static
-../lvgl/src/misc/lv_printf.c:550:12:_vsnprintf	152	static
-../lvgl/src/misc/lv_printf.c:865:5:lv_snprintf	24	static
-../lvgl/src/misc/lv_printf.c:874:5:lv_vsnprintf	16	static
