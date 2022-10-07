@@ -50,23 +50,14 @@ int main(void)
 	MX_GPIO_Init();
 	MX_DMA_Init();
 
-	if(BSP_LCD_Init(0, LCD_ORIENTATION_PORTRAIT) != BSP_ERROR_NONE) {
-		Error_Handler();
-	}
 	if(BSP_MEM_Init(0) != BSP_ERROR_NONE) {
-		Error_Handler();
-	}
-	if(BSP_KEY_Init(0, KEY_ORIENTATION_PORTRAIT) != BSP_ERROR_NONE) {
-		Error_Handler();
-	}
-
-	if(BSP_LCD_DisplayOn(0) != BSP_ERROR_NONE) {
 		Error_Handler();
 	}
 
 	lv_init();
 	disp_init();
 	indev_init();
+
 	ui_init();
 
 	while (1)

@@ -19,9 +19,15 @@
  **********************/
 
 /**********************
+ *  GLOBAL PROTOTYPES
+ **********************/
+void Error_Handler(void);
+
+/**********************
  *  STATIC PROTOTYPES
  **********************/
 static void flush_cb(lv_disp_drv_t * drv, const lv_area_t * area, lv_color_t * color);
+
 
 /**********************
  *  STATIC VARIABLES
@@ -37,6 +43,14 @@ static void flush_cb(lv_disp_drv_t * drv, const lv_area_t * area, lv_color_t * c
 
 void disp_init(void)
 {
+
+	if(BSP_LCD_Init(0, LCD_ORIENTATION_PORTRAIT) != BSP_ERROR_NONE) {
+		Error_Handler();
+	}
+	if(BSP_LCD_DisplayOn(0) != BSP_ERROR_NONE) {
+		Error_Handler();
+	}
+
 	static lv_color_t buf1[BUF_SIZE];
 	static lv_disp_draw_buf_t draw_buf;
 	lv_disp_draw_buf_init(&draw_buf, buf1, NULL, BUF_SIZE);

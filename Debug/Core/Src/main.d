@@ -265,7 +265,8 @@ Core/Src/main.o: ../Core/Src/main.c \
  /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/lvgl/src/extra/widgets/span/lv_span.h \
  /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/lvgl/src/extra/widgets/span/../../../lvgl.h \
  /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/ui/ui.h \
- /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/lvgl_hal/disp.h
+ /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/lvgl_hal/disp.h \
+ /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/lvgl_hal/indev.h
 /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/Core/Inc/main.h:
 /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal.h:
 /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/Core/Inc/stm32g0xx_hal_conf.h:
@@ -533,3 +534,4 @@ Core/Src/main.o: ../Core/Src/main.c \
 /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/lvgl/src/extra/widgets/span/../../../lvgl.h:
 /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/ui/ui.h:
 /home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/lvgl_hal/disp.h:
+/home/kisvegabor/projects/st/cert/cubeide-workspace/lv_port_stm_nucleo_g071rb/lvgl_hal/indev.h:

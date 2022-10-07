@@ -18,6 +18,11 @@
  **********************/
 
 /**********************
+ *  GLOBAL PROTOTYPES
+ **********************/
+void Error_Handler(void);
+
+/**********************
  *  STATIC PROTOTYPES
  **********************/
 static void joy_read_cb(lv_indev_drv_t * drv, lv_indev_data_t * data);
@@ -37,6 +42,10 @@ lv_indev_t * joy_indev;
 
 void indev_init(void)
 {
+	if(BSP_KEY_Init(0, KEY_ORIENTATION_PORTRAIT) != BSP_ERROR_NONE) {
+		Error_Handler();
+	}
+
 	static lv_indev_drv_t indev_drv;
 	lv_indev_drv_init(&indev_drv);
 	indev_drv.read_cb = joy_read_cb;

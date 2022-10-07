@@ -127,6 +127,7 @@ RM := rm -rf
 -include lvgl/examples/assets/emoji/subdir.mk
 -include lvgl/examples/assets/subdir.mk
 -include lvgl/examples/anim/subdir.mk
+-include lvgl/env_support/rt-thread/squareline/ui/subdir.mk
 -include lvgl/env_support/rt-thread/subdir.mk
 -include lvgl/demos/widgets/assets/subdir.mk
 -include lvgl/demos/widgets/subdir.mk

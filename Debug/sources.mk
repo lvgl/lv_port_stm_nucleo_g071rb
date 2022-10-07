@@ -38,6 +38,7 @@ lvgl/demos/stress \
 lvgl/demos/widgets/assets \
 lvgl/demos/widgets \
 lvgl/env_support/rt-thread \
+lvgl/env_support/rt-thread/squareline/ui \
 lvgl/examples/anim \
 lvgl/examples/assets \
 lvgl/examples/assets/emoji \

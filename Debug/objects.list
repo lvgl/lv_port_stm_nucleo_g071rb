@@ -98,6 +98,7 @@
 "./lvgl/demos/widgets/assets/img_lvgl_logo.o"
 "./lvgl/demos/widgets/lv_demo_widgets.o"
 "./lvgl/env_support/rt-thread/lv_rt_thread_port.o"
+"./lvgl/env_support/rt-thread/squareline/ui/lv_ui_entry.o"
 "./lvgl/examples/anim/lv_example_anim_1.o"
 "./lvgl/examples/anim/lv_example_anim_2.o"
 "./lvgl/examples/anim/lv_example_anim_3.o"
