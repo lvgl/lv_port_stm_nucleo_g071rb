@@ -1,0 +1,6 @@
+../Drivers/BSP/st7789v_reg.c:50:9:st7789v_read_reg	8	static
+../Drivers/BSP/st7789v_reg.c:63:9:st7789v_write_reg	8	static
+../Drivers/BSP/st7789v_reg.c:75:9:st7789v_send_data	8	static
+../Drivers/BSP/st7789v_reg.c:87:9:st7789v_send_data_dma	8	static
+../Drivers/BSP/st7789v_reg.c:99:9:st7789v_recv_data	8	static
+../Drivers/BSP/st7789v_reg.c:111:9:st7789v_recv_data_dma	8	static

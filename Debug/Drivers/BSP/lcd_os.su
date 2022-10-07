@@ -1,0 +1,7 @@
+../Drivers/BSP/lcd_os.c:114:9:LCD_OS_Initialize	0	static
+../Drivers/BSP/lcd_os.c:129:9:LCD_OS_Lock	0	static
+../Drivers/BSP/lcd_os.c:141:9:LCD_OS_Unlock	0	static
+../Drivers/BSP/lcd_os.c:152:9:LCD_OS_UnlockFromISR	0	static
+../Drivers/BSP/lcd_os.c:165:9:LCD_OS_TryLock	24	static
+../Drivers/BSP/lcd_os.c:197:9:LCD_OS_IsLocked	0	static
+../Drivers/BSP/lcd_os.c:207:9:LCD_OS_WaitForTransferToBeDone	0	static

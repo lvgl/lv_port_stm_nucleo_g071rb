@@ -1,0 +1,3 @@
+../lvgl/src/font/lv_font_loader.c:117:6:lv_font_free	24	static
+../lvgl/src/font/lv_font_loader.c:587:9:load_kern	48	static
+../lvgl/src/font/lv_font_loader.c:86:13:lv_font_load	184	static

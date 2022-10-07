@@ -1,0 +1,15 @@
+../ui/ui.c:62:6:ui_event_Menu	16	static
+../ui/ui.c:71:6:ui_event_Aircon	16	static
+../ui/ui.c:80:6:ui_event_Clock	16	static
+../ui/ui.c:89:6:ui_event_About	16	static
+../ui/ui.c:98:6:ui_event_Button_Aircon	16	static
+../ui/ui.c:106:6:ui_event_Button_Time	16	static
+../ui/ui.c:114:6:ui_event_Button_About	16	static
+../ui/ui.c:122:6:ui_event_Header_Sub_Back_Back	16	static
+../ui/ui.c:138:6:ui_event_Header_Sub2_Back_Back	16	static
+../ui/ui.c:130:6:ui_event_Header_Sub1_Back_Back	16	static
+../ui/ui.c:148:6:ui_Menu_screen_init	24	static
+../ui/ui.c:184:6:ui_AirCon_screen_init	24	static
+../ui/ui.c:267:6:ui_SetTime_screen_init	32	static
+../ui/ui.c:363:6:ui_About_screen_init	16	static
+../ui/ui.c:403:6:ui_init	24	static

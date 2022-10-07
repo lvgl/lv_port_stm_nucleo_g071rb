@@ -1,0 +1,13 @@
+../lvgl/src/misc/lv_style.c:150:6:lv_style_init	8	static
+../lvgl/src/misc/lv_style.c:164:6:lv_style_reset	8	static
+../lvgl/src/misc/lv_style.c:180:17:lv_style_register_prop	24	static
+../lvgl/src/misc/lv_style.c:216:17:lv_style_get_num_custom_props	0	static
+../lvgl/src/misc/lv_style.c:221:6:lv_style_remove_prop	32	static
+../lvgl/src/misc/lv_style.c:282:6:lv_style_set_prop	32	static
+../lvgl/src/misc/lv_style.c:287:6:lv_style_set_prop_meta	24	static
+../lvgl/src/misc/lv_style.c:297:6:lv_style_transition_dsc_init	24	static
+../lvgl/src/misc/lv_style.c:312:18:lv_style_prop_get_default	0	static
+../lvgl/src/misc/lv_style.c:292:16:lv_style_get_prop	24	static
+../lvgl/src/misc/lv_style.c:365:6:lv_style_is_empty	0	static
+../lvgl/src/misc/lv_style.c:372:9:_lv_style_get_prop_group	0	static
+../lvgl/src/misc/lv_style.c:379:9:_lv_style_prop_lookup_flags	0	static

@@ -1,0 +1,4 @@
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:1386:13:draw_border_simple	96	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:69:6:lv_draw_sw_rect	128	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:85:6:lv_draw_sw_bg	120	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:1155:6:draw_border_generic	96	static

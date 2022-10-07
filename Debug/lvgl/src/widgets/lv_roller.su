@@ -1,0 +1,16 @@
+../lvgl/src/widgets/lv_roller.c:781:13:set_y_anim	8	static
+../lvgl/src/widgets/lv_roller.c:571:13:get_sel_area	32	static
+../lvgl/src/widgets/lv_roller.c:727:13:inf_normalize.part.0	24	static
+../lvgl/src/widgets/lv_roller.c:774:13:scroll_anim_ready_cb	8	static
+../lvgl/src/widgets/lv_roller.c:595:13:refr_position	104	static
+../lvgl/src/widgets/lv_roller.c:294:13:lv_roller_constructor	16	static
+../lvgl/src/widgets/lv_roller.c:418:13:lv_roller_label_event	96	static
+../lvgl/src/widgets/lv_roller.c:78:12:lv_roller_create	8	static
+../lvgl/src/widgets/lv_roller.c:96:6:lv_roller_set_options	48	static
+../lvgl/src/widgets/lv_roller.c:152:6:lv_roller_set_selected	32	static
+../lvgl/src/widgets/lv_roller.c:315:13:lv_roller_event	160	static
+../lvgl/src/widgets/lv_roller.c:191:6:lv_roller_set_visible_row_count	24	static
+../lvgl/src/widgets/lv_roller.c:210:10:lv_roller_get_selected	8	static
+../lvgl/src/widgets/lv_roller.c:230:6:lv_roller_get_selected_str	24	static
+../lvgl/src/widgets/lv_roller.c:263:14:lv_roller_get_options	8	static
+../lvgl/src/widgets/lv_roller.c:276:10:lv_roller_get_option_cnt	8	static

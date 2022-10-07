@@ -1,0 +1,13 @@
+../Drivers/BSP/mem/mx25l6433f.c:101:9:MX25L6433F_Init	0	static
+../Drivers/BSP/mem/mx25l6433f.c:124:9:MX25L6433F_DeInit	8	static
+../Drivers/BSP/mem/mx25l6433f.c:134:9:MX25L6433F_GetFlashInfo	0	static
+../Drivers/BSP/mem/mx25l6433f.c:161:9:MX25L6433F_Read	8	static
+../Drivers/BSP/mem/mx25l6433f.c:192:9:MX25L6433F_ReadDMA	8	static
+../Drivers/BSP/mem/mx25l6433f.c:225:9:MX25L6433F_PageProgram	8	static
+../Drivers/BSP/mem/mx25l6433f.c:255:9:MX25L6433F_PageProgramDMA	8	static
+../Drivers/BSP/mem/mx25l6433f.c:281:9:MX25L6433F_BlockErase	0	static
+../Drivers/BSP/mem/mx25l6433f.c:309:9:MX25L6433F_ChipErase	0	static
+../Drivers/BSP/mem/mx25l6433f.c:327:9:MX25L6433F_ReadID	0	static
+../Drivers/BSP/mem/mx25l6433f.c:343:9:MX25L6433F_ResetEnable	0	static
+../Drivers/BSP/mem/mx25l6433f.c:358:9:MX25L6433F_ResetMemory	0	static
+../Drivers/BSP/mem/mx25l6433f.c:64:9:MX25L6433F_RegisterBusIO	8	static

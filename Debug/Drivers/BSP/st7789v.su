@@ -1,0 +1,17 @@
+../Drivers/BSP/st7789v.c:382:9:ST7789V_DeInit	8	static
+../Drivers/BSP/st7789v.c:502:9:ST7789V_GetOrientation	0	static
+../Drivers/BSP/st7789v.c:516:9:ST7789V_GetXSize	0	static
+../Drivers/BSP/st7789v.c:530:9:ST7789V_GetYSize	0	static
+../Drivers/BSP/st7789v.c:595:16:ST7789V_ReadRegWrap	8	static
+../Drivers/BSP/st7789v.c:610:16:ST7789V_WriteRegWrap	8	static
+../Drivers/BSP/st7789v.c:624:16:ST7789V_SendDataWrap	8	static
+../Drivers/BSP/st7789v.c:637:16:ST7789V_SendDataDMAWrap	8	static
+../Drivers/BSP/st7789v.c:650:16:ST7789V_RecvDataWrap	8	static
+../Drivers/BSP/st7789v.c:663:16:ST7789V_RecvDataDMAWrap	8	static
+../Drivers/BSP/st7789v.c:430:9:ST7789V_DisplayOn	16	static
+../Drivers/BSP/st7789v.c:442:9:ST7789V_DisplayOff	16	static
+../Drivers/BSP/st7789v.c:456:9:ST7789V_SetOrientation	32	static
+../Drivers/BSP/st7789v.c:547:9:ST7789V_SetDisplayWindow	40	static
+../Drivers/BSP/st7789v.c:393:9:ST7789V_ReadID	32	static
+../Drivers/BSP/st7789v.c:165:9:ST7789V_Init	80	static
+../Drivers/BSP/st7789v.c:117:9:ST7789V_RegisterBusIO	8	static

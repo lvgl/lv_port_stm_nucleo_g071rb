@@ -1,0 +1,17 @@
+../lvgl/src/misc/lv_txt.c:509:16:lv_txt_utf8_size	0	static
+../lvgl/src/misc/lv_txt.c:563:17:lv_txt_utf8_conv_wc	16	static
+../lvgl/src/misc/lv_txt.c:591:17:lv_txt_utf8_next	32	static
+../lvgl/src/misc/lv_txt.c:699:17:lv_txt_utf8_get_byte_id	24	static
+../lvgl/src/misc/lv_txt.c:719:17:lv_txt_utf8_get_char_id	32	static
+../lvgl/src/misc/lv_txt.c:738:17:lv_txt_utf8_get_length	24	static
+../lvgl/src/misc/lv_txt.c:527:17:lv_txt_unicode_to_utf8	16	static
+../lvgl/src/misc/lv_txt.c:343:12:lv_txt_get_width.part.0	56	static
+../lvgl/src/misc/lv_txt.c:666:17:lv_txt_utf8_prev	32	static
+../lvgl/src/misc/lv_txt.c:279:10:_lv_txt_get_next_line	112	static
+../lvgl/src/misc/lv_txt.c:91:6:lv_txt_get_size	64	static
+../lvgl/src/misc/lv_txt.c:343:12:lv_txt_get_width	24	static
+../lvgl/src/misc/lv_txt.c:382:6:_lv_txt_is_cmd	0	static
+../lvgl/src/misc/lv_txt.c:413:6:_lv_txt_ins	24	static
+../lvgl/src/misc/lv_txt.c:434:6:_lv_txt_cut	32	static
+../lvgl/src/misc/lv_txt.c:450:8:_lv_txt_set_text_vfmt	32	static
+../lvgl/src/misc/lv_txt.c:493:6:_lv_txt_encoded_letter_next_2	24	static
