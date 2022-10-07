@@ -58,3 +58,5 @@ lvgl.wasm
 # CMake output
 build
 .vscode
+
+Debug/
