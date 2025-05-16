@@ -97,7 +97,7 @@ void ui_event_Button_About(lv_event_t * e)
     }
 }
 
-#define DEMO 2
+#define DEMO 0
 
 #if DEMO == 0
 void ui_Menu_screen_init(void)

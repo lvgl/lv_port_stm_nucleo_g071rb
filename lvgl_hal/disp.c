@@ -35,7 +35,7 @@ static void flush_cb(lv_disp_drv_t * drv, const lv_area_t * area, lv_color_t * c
 /**********************
  *      MACROS
  **********************/
-#define DOUBLE_BUFFERING 0
+#define DOUBLE_BUFFERING 1
 
 #if DOUBLE_BUFFERING == 1
 #define BUF_SIZE 240 * 14
