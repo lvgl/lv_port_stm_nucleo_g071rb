@@ -60,3 +60,6 @@ build
 .vscode
 
 Debug/
+
+!measurements/
+!measurements/map_files/*.map
